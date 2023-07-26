@@ -1,0 +1,3 @@
+export const GET_DATA_SUCCESS = 'GET_DATA_SUCCESS';
+export const UPDATE_LEVEL = 'UPDATE_LEVEL';
+export const FILTER_QUESTION = 'FILTER_QUESTION';

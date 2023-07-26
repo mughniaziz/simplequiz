@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Easy",
+    "onPress": "easy"
+  },
+  {
+    "label": "Medium",
+    "onPress": "medium"
+  },
+  {
+    "label": "Hard",
+    "onPress": "hard"
+  }
+]

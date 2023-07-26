@@ -1,0 +1,227 @@
+[
+  {
+    "question": "Berapakah hasil dari 2 + 2?",
+    "clue": "Operasi penjumlahan sederhana.",
+    "choices": [
+      {
+        "label": "2",
+        "onPress": "2"
+      },
+      {
+        "label": "3",
+        "onPress": "3"
+      },
+      {
+        "label": "4",
+        "onPress": "4"
+      },
+      {
+        "label": "12",
+        "onPress": "12"
+      }
+    ],
+    "answer": "4",
+    "isCorrect": false,
+    "level": "easy"
+  },
+  {
+    "question": "Apa warna daun pada umumnya?",
+    "clue": "Warna ini sering dikaitkan dengan alam.",
+    "choices": [
+      {
+        "label": "Merah",
+        "onPress": "Merah"
+      },
+      {
+        "label": "Biru",
+        "onPress": "Biru"
+      },
+      {
+        "label": "Kuning",
+        "onPress": "Kuning"
+      },
+      {
+        "label": "Hijau",
+        "onPress": "Hijau"
+      }
+    ],
+    "answer": "Hijau",
+    "isCorrect": false,
+    "level": "easy"
+  },
+  {
+    "question": "Berapakah jumlah hari dalam seminggu?",
+    "clue": "Satu minggu terdiri dari berapa hari?",
+    "choices": [
+      {
+        "label": "5",
+        "onPress": "5"
+      },
+      {
+        "label": "6",
+        "onPress": "6"
+      },
+      {
+        "label": "7",
+        "onPress": "7"
+      },
+      {
+        "label": "8",
+        "onPress": "8"
+      }
+    ],
+    "answer": "7",
+    "isCorrect": false,
+    "level": "easy"
+  },
+  {
+    "question": "Siapakah pelukis terkenal yang melukis Mona Lisa?",
+    "clue": "Dia merupakan seorang pelukis Italia pada zaman Renaissance.",
+    "choices": [
+      {
+        "label": "Leonardo da Vinci",
+        "onPress": "Leonardo da Vinci"
+      },
+      {
+        "label": "Pablo Picasso",
+        "onPress": "Pablo Picasso"
+      },
+      {
+        "label": "Vincent van Gogh",
+        "onPress": "Vincent van Gogh"
+      },
+      {
+        "label": "Michelangelo",
+        "onPress": "Michelangelo"
+      }
+    ],
+    "answer": "Leonardo da Vinci",
+    "isCorrect": false,
+    "level": "medium"
+  },
+  {
+    "question": "Apa nama senjata tradisional Jepang yang terkenal?",
+    "clue": "Senjata ini merupakan pedang Jepang yang memiliki bilah melengkung.",
+    "choices": [
+      {
+        "label": "Katana",
+        "onPress": "Katana"
+      },
+      {
+        "label": "Spear",
+        "onPress": "Spear"
+      },
+      {
+        "label": "Bow",
+        "onPress": "Bow"
+      },
+      {
+        "label": "Dagger",
+        "onPress": "Dagger"
+      }
+    ],
+    "answer": "Katana",
+    "isCorrect": false,
+    "level": "medium"
+  },
+  {
+    "question": "Siapakah penulis novel 'Pride and Prejudice'?",
+    "clue": "Novel ini merupakan salah satu karya sastra klasik Inggris.",
+    "choices": [
+      {
+        "label": "Jane Austen",
+        "onPress": "Jane Austen"
+      },
+      {
+        "label": "Charlotte Brontë",
+        "onPress": "Charlotte Brontë"
+      },
+      {
+        "label": "Emily Dickinson",
+        "onPress": "Emily Dickinson"
+      },
+      {
+        "label": "Virginia Woolf",
+        "onPress": "Virginia Woolf"
+      }
+    ],
+    "answer": "Jane Austen",
+    "isCorrect": false,
+    "level": "medium"
+  },
+  {
+    "question": "Siapakah ilmuwan yang merumuskan teori relativitas umum?",
+    "clue": "Dia merupakan seorang fisikawan teoretis terkemuka abad ke-20.",
+    "choices": [
+      {
+        "label": "Isaac Newton",
+        "onPress": "Isaac Newton"
+      },
+      {
+        "label": "Albert Einstein",
+        "onPress": "Albert Einstein"
+      },
+      {
+        "label": "Niels Bohr",
+        "onPress": "Niels Bohr"
+      },
+      {
+        "label": "Werner Heisenberg",
+        "onPress": "Werner Heisenberg"
+      }
+    ],
+    "answer": "Albert Einstein",
+    "isCorrect": false,
+    "level": "hard"
+  },
+  {
+    "question": "Siapakah tokoh filsuf yang dikaitkan dengan konsep 'Superman'?",
+    "clue": "Dia merupakan filsuf Jerman yang kontroversial.",
+    "choices": [
+      {
+        "label": "Friedrich Nietzsche",
+        "onPress": "Friedrich Nietzsche"
+      },
+      {
+        "label": "Søren Kierkegaard",
+        "onPress": "Søren Kierkegaard"
+      },
+      {
+        "label": "Jean-Paul Sartre",
+        "onPress": "Jean-Paul Sartre"
+      },
+      {
+        "label": "Immanuel Kant",
+        "onPress": "Immanuel Kant"
+      }
+    ],
+    "answer": "Friedrich Nietzsche",
+    "isCorrect": false,
+    "level": "hard"
+  },
+  {
+    "question": "Apa nama senjata nuklir yang dijatuhkan di Nagasaki pada Perang Dunia II?",
+    "clue": "Senjata ini merupakan bom atom yang dijatuhkan oleh Amerika Serikat.",
+    "choices": [
+      {
+        "label": "Fat Man",
+        "onPress": "Fat Man"
+      },
+      {
+        "label": "Little Boy",
+        "onPress": "Little Boy"
+      },
+      {
+        "label": "Tsar Bomba",
+        "onPress": "Tsar Bomba"
+      },
+      {
+        "label": "Trinity",
+        "onPress": "Trinity"
+      }
+    ],
+    "answer": "Fat Man",
+    "isCorrect": false,
+    "level": "hard"
+  }
+]
